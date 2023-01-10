@@ -14,5 +14,5 @@ This project was developed with the following technologies:
 <img src="https://i.imgur.com/BxfmBVG.png">
 </p>
 <p align="center">
-<img src="https://i.imgur.com/YNtYbEl.png" alt="" width="65%">
+<img src="https://i.imgur.com/YNtYbEl.png">
 </p>
